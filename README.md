@@ -39,12 +39,4 @@ I'm currently **open to freelance projects and full-time roles**, particularly i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/edsher)
 ---
 
-## 📊 GitHub Stats
-
-![Edsher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsher08&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edsher08&layout=compact&theme=default&hide_border=true)
-
----
-
 *Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.* 🚀
