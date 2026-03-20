@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Edsher Reloncillo 👋
 
-<!--
-**Edsher08/edsher08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Mid-level Android Developer** with a passion for building clean, scalable mobile applications. I've been focused on Android development since 2023 and I thrive on continuously learning and improving my craft — whether it's mastering new architectures, exploring cross-platform development, or diving deeper into modern Android tooling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Mobile Development**
+- Android (Java & Kotlin)
+- Jetpack Compose
+- MVVM Architecture & Dependency Injection
+
+**Currently Learning**
+- React Native
+- Web Fundamentals (HTML, CSS, JavaScript)
+
+---
+
+## 📈 What I'm Up To
+
+- 🔭 Building and improving Android applications
+- 📱 Expanding into cross-platform development with **React Native**
+- 🌱 Continuously leveling up my skills in modern Android practices
+- 💡 Always curious about new tools, patterns, and technologies
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm currently **open to freelance projects and full-time roles**, particularly in:
+- Android / Mobile Development
+- Cross-platform (React Native)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/edsher)
+---
+
+## 📊 GitHub Stats
+
+![Edsher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsher08&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edsher08&layout=compact&theme=default&hide_border=true)
+
+---
+
+*Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.* 🚀
