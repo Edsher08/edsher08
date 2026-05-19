@@ -1,6 +1,6 @@
 # Hi, I'm Edsher Reloncillo 👋
 
-I'm a **Mid-level Android Developer** with a passion for building clean, scalable mobile applications. I've been focused on Android development since 2023 and I thrive on continuously learning and improving my craft — whether it's mastering new architectures, exploring cross-platform development, or diving deeper into modern Android tooling.
+I'm a **Software Developer** with a passion for building clean, scalable mobile applications. I've been focused on Android development since 2023 and I thrive on continuously learning and improving my craft — whether it's mastering new architectures, exploring cross-platform development, or diving deeper into modern Android tooling.
 
 ---
 
